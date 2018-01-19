@@ -1,6 +1,6 @@
 {
   "name": "query-parameters-comparator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An utility to compare query parameters from different urls",
   "author": "Jonathan Argentiero",
   "license": "ISC",
